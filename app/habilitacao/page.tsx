@@ -24,7 +24,7 @@ export default function HabilitacaoPage() {
         {/* CNH Image - Much larger, taking most of the page */}
         <div className="flex-1 flex items-center justify-center">
           <img
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_3345-pwKpiTad9HbKqorGXqtluVLyEBQYDJ.jpeg"
+            src="/images/cnh-landscape.png"
             alt="Carteira Nacional de Habilitação"
             className="w-full h-full object-contain rounded-lg shadow-lg border border-gray-300 transform rotate-90"
             style={{
