@@ -28,7 +28,7 @@ export default function CondutorPage() {
             {/* Name */}
             <div className="mb-6">
               <p className="text-sm text-gray-600 mb-1">Nome</p>
-              <p className="text-lg font-medium text-gray-900">Maria Luiza Espigiorin de Oliveira</p>
+              <p className="text-lg font-medium text-gray-900">Isadora da Luz Andrade</p>
             </div>
 
             {/* CPF and Gender */}
