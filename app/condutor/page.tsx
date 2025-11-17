@@ -28,7 +28,7 @@ export default function CondutorPage() {
             {/* Name */}
             <div className="mb-6">
               <p className="text-sm text-gray-600 mb-1">Nome</p>
-              <p className="text-lg font-medium text-gray-900">Isadora da Luz Andrade</p>
+              <p className="text-lg font-medium text-gray-900">Nycolas da Costa Rios</p>
             </div>
 
             {/* CPF and Gender */}
@@ -39,7 +39,7 @@ export default function CondutorPage() {
               </div>
               <div>
                 <p className="text-sm text-gray-600 mb-1">Sexo</p>
-                <p className="text-base font-medium text-gray-900">Feminino</p>
+                <p className="text-base font-medium text-gray-900">Masculino</p>
               </div>
             </div>
 
