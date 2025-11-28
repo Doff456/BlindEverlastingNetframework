@@ -24,7 +24,7 @@ export default function HabilitacaoPage() {
         {/* CNH Image - Much larger, taking most of the page */}
         <div className="flex-1 flex items-center justify-center">
           <img
-            src="https://i.postimg.cc/XBrbsCsj/ff31db8c-0408-4f85-87f0-3e2a518bf637.jpg"
+            src="https://iili.io/fCq3qx4.md.jpg"
             alt="Carteira Nacional de Habilitação"
             className="w-full h-full object-contain rounded-lg shadow-lg border border-gray-300 transform rotate-90"
             style={{
